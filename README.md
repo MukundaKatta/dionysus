@@ -1,6 +1,6 @@
 # dionysus — Social Media Platform. Social media management platform
 
-Social Media Platform. Social media management platform. dionysus gives you a focused, inspectable implementation of that idea.
+Social Media Platform. Social media management platform.
 
 ## Why dionysus
 
